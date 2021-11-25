@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-	<Version>1.0.1</Version>
+	<Version>2.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
@@ -32,9 +32,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="BasicBlazorLibrary" Version="2.0.3" />
-    <PackageReference Include="CommonBasicLibraries" Version="4.0.5" />
-    <PackageReference Include="ContactManger.CoreLibrary" Version="1.0.1" />
+    <PackageReference Include="BasicBlazorLibrary" Version="3.0.1" />
+    <PackageReference Include="CommonBasicLibraries" Version="5.0.1" />
+    <PackageReference Include="ContactManager.CoreLibrary" Version="2.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.0" />
   </ItemGroup>
 
