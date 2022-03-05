@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-	<Version>2.0.1</Version>
+	<Version>3.0.1</Version>
   </PropertyGroup>
 <ItemGroup>
 	   <Content Remove="C:\Users\music\.nuget\packages\basicblazorlibrary\3.0.1\contentFiles\any\net6.0\wwwroot\autoscroll.js" />
@@ -33,10 +33,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="BasicBlazorLibrary" Version="3.0.1" />
-    <PackageReference Include="CommonBasicLibraries" Version="5.0.1" />
-    <PackageReference Include="ContactManager.CoreLibrary" Version="2.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.0" />
+    <PackageReference Include="BasicBlazorLibrary" Version="4.0.1" />
+    <PackageReference Include="CommonBasicLibraries" Version="7.0.1" />
+    <PackageReference Include="ContactManager.CoreLibrary" Version="3.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.2" />
   </ItemGroup>
 
 </Project>
